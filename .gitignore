@@ -3,3 +3,4 @@
 /.idea/
 /solution_cypher.py
 /.idea/*
+.DS_*
