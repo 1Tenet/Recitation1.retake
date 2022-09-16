@@ -1,7 +1,7 @@
 # Division of PEMaCS
 # CSCI-121 Elements of Computer Programming II
 # Recitation 1 - Encryption with a password
-# *******************************************************
+# ********************************************************
 import string
 
 alphabet = string.printable
